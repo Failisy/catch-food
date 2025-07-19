@@ -6,11 +6,11 @@
 
 CF.config 스코어보드로 게임룰을 설정할 수 있습니다  
 `/scoreboard players set <name> CF.config <score>`  
-`<name>`  
+`<name>
     spawnDelaySec       : 음식이 소환되는 시간 초를 설정합니다. {init: 3}  
     spawnRadiusChunks   : 음식이 소환되는 청크 범위를 설정합니다. (init: 1)  
     spawnFood           : 음식의 소환 여부를 결정합니다 (boolean)  
-    hunger              : 전체 플레이어에게 허기 버프를 부여합니다. (boolean)  
+    hunger              : 전체 플레이어에게 허기 버프를 부여합니다. (boolean)'  
 
 `/function catch_food:recommend`  : 게임에서 지정한 권장 설정을 불러옵니다.  
 (spawnFood: 1, hunger: 1, naturalRegeneration: false, 전체 플레이어의 체력과 허기 회복)  
