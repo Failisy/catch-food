@@ -5,7 +5,7 @@
 투척용 허기의 물약(공격 아이템): 맞은 대상의 허기를 4칸을 소모시킵니다.
 
 CF.config 스코어보드로 게임룰을 설정할 수 있습니다  
-`/scoreboard players set <name> CF.config <score>`
+`/scoreboard players set <name> CF.config <score>`  
 `<name>`  
     spawnDelaySec       : 음식이 소환되는 시간 초를 설정합니다. {init: 3}  
     spawnRadiusChunks   : 음식이 소환되는 청크 범위를 설정합니다. (init: 1)  
